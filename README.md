@@ -1,1 +1,1 @@
-# Starting-again
+-- Starting Again is a project in which I will be starting again in Python. For better or for worst!
